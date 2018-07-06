@@ -1,0 +1,3 @@
+org\apache\nifi\processors\JsonProcessorTest.class
+org\apache\nifi\processors\HttpTest.class
+org\apache\nifi\processors\JsonProcessorTest$1.class
